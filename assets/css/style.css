@@ -1,0 +1,95 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  width: 100%;
+}
+
+textarea {
+  background: transparent;
+  border:0in;
+  resize: none;
+  color: rgb(144, 181, 248);
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #06AED5;
+  border: thin;
+  padding: 1rem 1rem !important
+}
+
+.col-2 hour{
+  color: azure;
+}
+
+.description {
+  white-space: pre-wrap;
+  text-align: center;
+  font-size: 18px;
+  border-left: 2px solid white;
+}
+
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 65px;
+  border-top: 1px solid white;
+}
+
+.hour {
+  color: #000000;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.timeSlots {
+  margin-bottom: 20px;
+  background-color: chartreuse;
+ font-weight: bold;
+
+}
+
+.past {
+  background-color: rgb(241, 9, 98);
+  color: white;
+}
+
+.present {
+  background-color: rgb(81, 238, 8);
+  color: white;
+}
+
+.future {
+  background-color: #e4cd02;
+  color: white;
+}
+
+.clear {
+  background-color: chartreuse;
+  color: rgb(12, 11, 11);
+  font-weight: bold;
+  width: 53%;
+  margin-left: 24%;
+  margin-bottom: 2%;
+}
+
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #06AED5;
+    color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
