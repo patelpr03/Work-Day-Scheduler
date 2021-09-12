@@ -8,11 +8,11 @@
      •	jQuery
      •	BootStrap
 # Github:
-   
+   https://github.com/patelpr03/Work-Day-Scheduler
 
-# link to deployed application
-
-# screenshot : 
+# Link to deployed application
+    https://patelpr03.github.io/Work-Day-Scheduler/
+# Screenshot : 
    outcome.png
 # Demo
    05-third-party-apis-homework-demo
