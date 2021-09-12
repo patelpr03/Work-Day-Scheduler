@@ -15,4 +15,4 @@
 # Screenshot : 
    outcome.png
 # Demo
-   05-third-party-apis-homework-demo
+   05-third-party-apis-homework-demo.gif
