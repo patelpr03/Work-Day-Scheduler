@@ -13,6 +13,6 @@
 # Link to deployed application
     https://patelpr03.github.io/Work-Day-Scheduler/
 # Screenshot : 
-   outcome.png
+![Workday Scheduler](./assets/outcome.png)
 # Demo
    05-third-party-apis-homework-demo.gif
