@@ -9,7 +9,8 @@ textarea {
   background: transparent;
   border:0in;
   resize: none;
-  color: rgb(144, 181, 248);
+  color: rgb(37, 14, 243);
+  font-weight: bold;
   border-left: 1px solid black;
   padding: 10px;
 }
